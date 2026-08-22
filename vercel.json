@@ -1,4 +1,4 @@
 {
   "installCommand": "npm install --legacy-peer-deps",
-  "buildCommand": "vite build --emptyOutDir"
+  "buildCommand": "npm run build"
 }

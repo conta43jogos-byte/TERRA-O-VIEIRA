@@ -1,0 +1,17 @@
+TERRACO VIEIRA - PROJETO LIMPO
+
+COMO INICIAR NO WINDOWS
+1. Instale o Node.js (versao LTS).
+2. Extraia esta pasta.
+3. Abra a pasta no VS Code.
+4. Clique duas vezes em INICIAR.bat ou abra o terminal e execute:
+   npm install
+   npm run dev
+5. Abra no navegador:
+   http://localhost:3000
+
+IMPORTANTE
+- Nao abra client/index.html diretamente pelo duplo clique.
+- Este e um projeto React + Vite + servidor Node.
+- As fotos estao em client/public/fotos e sao carregadas localmente.
+- O script foi ajustado para funcionar no Windows sem depender de NODE_ENV=... no comando.
